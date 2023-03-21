@@ -1,4 +1,4 @@
-# pyspark
+# PySpark - SparkSQL
 The code is used to answer question below
 
 1. How many taxi trips were there on February 15?
